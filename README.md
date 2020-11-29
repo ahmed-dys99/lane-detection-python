@@ -6,7 +6,7 @@ Implemented lane detection using Hough Transform... Instead of using the in-buil
 
 ### Results
 
-![Result](https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test3_output.jpg)
+![Result](https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test3_output.jpg =500x)
 
 ![Result](https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test1_output.jpg)
 
