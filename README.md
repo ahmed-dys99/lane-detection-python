@@ -12,7 +12,7 @@ Implemented lane detection using Hough Transform... Instead of using the in-buil
 
 <img src="https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test1_output.jpg" width="500">
 
-
+<br>
 ---
 
 ### Blog
