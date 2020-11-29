@@ -5,5 +5,5 @@ Implemented lane detection using Hough Transform... Instead of using the in-buil
 ![Result](https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test3_output.jpg)
 
 
-I also wrote a blog on medium that walks you through my code:
+I also wrote a blog on medium that walks you through my code: <br>
 <https://ahmed-dys99.medium.com/lane-detection-using-hough-transform-python-cb122e8417b6>
