@@ -8,7 +8,7 @@ Implemented lane detection using Hough Transform... Instead of using the in-buil
 
 ### Results
 
-<img src="https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test3_output.jpg" width="500">
+<img src="https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test3_output.jpg" width="500" align="center">
 
 <img src="https://github.com/lenodoeastern/lane-detection-python/blob/main/results/test8_output.jpg" width="500">
 
