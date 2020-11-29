@@ -12,7 +12,7 @@ Implemented lane detection using Hough Transform... Instead of using the in-buil
 
 ### Blog
 
-I also wrote a blog on medium that walks you through my code: <br>
+I also wrote a blog on medium that walks you through my code
 
 > Hough transform is a feature extraction technique used in image analysis, computer vision, and digital image processing. While using the built in function in the python open cv package is easy, this blog focuses on implementing the entire algorithm from scratch. Note that I am assuming you already understand the underlining concepts behind Hough transform.
 
